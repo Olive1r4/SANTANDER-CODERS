@@ -23,3 +23,5 @@ print(*tupla_paises)
 
 # Imprimir parte da lista
 print(tupla_paises[1:3])
+print(tupla_paises[1:])
+print(tupla_paises[:3])
