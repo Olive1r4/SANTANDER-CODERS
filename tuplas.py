@@ -19,4 +19,7 @@ print(tupla_paises[0])
 # Unpacking
 pais1, pais2, pais3, pais4, pais5 = tupla_paises
 print(pais1, pais2, pais3, pais4, pais5)
-print(*tupla_paises)
+print(*tupla_paises) 
+
+# Imprimir parte da lista
+print(tupla_paises[1:3])
